@@ -3,12 +3,12 @@ entries:
   eii-provision:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-20T16:11:49.29605256+05:30"
+    created: "2021-09-20T16:20:13.068529093+05:30"
     description: A Helm chart for EII provisioning
-    digest: 0ef1a63279b7d7f9523703d996cef1d5295c3e2c1edacb026a308e2f3951006f
+    digest: 8f1c084ce08a82a28b364d9ca907de5ef478ef6e727f730a2d9f1c605013944e
     name: eii-provision
     type: application
     urls:
     - https://niluwin.github.io/eii/eii-provision-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-20T16:11:49.295315381+05:30"
+generated: "2021-09-20T16:20:13.067575157+05:30"
